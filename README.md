@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tejaswinidhaval
-- 👀 I’m interested in Web Development, AI & Machine Learning, Augmented Reality.
+- 👀 I’m interested in Software Development, Web Development and Machine Learning.
 - 🌱 I’m currently learning ML
 - 📫 How to reach me ...
 

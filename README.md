@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tejaswinidhaval
 - 👀 I’m interested in Software Development, Web Development and Machine Learning.
-- 🌱 I’m currently learning ML
+- 🌱 I’m currently learning Machine learning and Tableau.
 - 📫 How to reach me ...
 
 <!---
